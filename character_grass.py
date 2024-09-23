@@ -1,3 +1,5 @@
+#2022184001 강다현
+
 from pico2d import *
 import random
 import math
